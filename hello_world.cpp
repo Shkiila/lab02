@@ -3,6 +3,6 @@
 
 int main(){
     std::string name;
-    std::cin>>name;    //читает имя из строки
-    std::cout<<"Hello world from "<<name<<std::endl;    //выводит сообщение в терминал с обращением по имени
+    std::cin>>name;    //read name 
+    std::cout<<"Hello world from "<<name<<std::endl;    //prints a message to the terminal addressing by name
 }
